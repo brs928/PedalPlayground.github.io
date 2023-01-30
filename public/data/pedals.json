@@ -5894,6 +5894,13 @@
 		"Image": "cioks-schizo.png"
 	},
 	{
+		"Brand": "Cioks",
+		"Name": "Sol",
+		"Width": 5.12,
+		"Height": 3.46,
+		"Image": "cioks-sol.png"
+	},
+	{
 		"Brand": "CKK Electronic",
 		"Name": "Destruction Drive",
 		"Width": 2.36,
